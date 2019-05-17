@@ -1,5 +1,5 @@
 # NumPy
-Simple implementation of NumPy Array where it shows:
+Simple implementation of NumPy Array. Here it shows:
 * NumPy Array.<br>
 * NumPy 2D-Array.<br>
 * Slicing Operation.<br>

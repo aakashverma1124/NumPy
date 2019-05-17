@@ -1,6 +1,6 @@
 # NumPy
 Simple implementation of NumPy Array where it shows:
-⋅⋅* NumPy Array. 
+* NumPy Array
 ⋅⋅* NumPy 2D-Array.
 ⋅⋅* Slicing Operation.
 ⋅⋅* Line Spacing.

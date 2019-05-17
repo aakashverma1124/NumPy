@@ -1,10 +1,10 @@
 # NumPy
 Simple implementation of NumPy Array where it shows:
-* NumPy Array
-⋅⋅* NumPy 2D-Array.
-⋅⋅* Slicing Operation.
-⋅⋅* Line Spacing.
-..* Square Root, Standard Deviation and Ravel Operation.
-..* Arithmetic Operation & Stacking.
-..* NumPy is faster.
-..* Numpy is memory efficient and convinient.
+* NumPy Array.<br>
+* NumPy 2D-Array.<br>
+* Slicing Operation.<br>
+* Line Spacing.<br>
+* Square Root, Standard Deviation and Ravel Operation.<br>
+* Arithmetic Operation & Stacking.<br>
+* NumPy is faster.<br>
+* Numpy is memory efficient and convinient.<br>

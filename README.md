@@ -6,5 +6,5 @@ Simple implementation of NumPy Array. Here it shows:
 * Line Spacing.<br>
 * Square Root, Standard Deviation and Ravel Operation.<br>
 * Arithmetic Operation & Stacking.<br>
-* NumPy is faster.<br>
-* Numpy is memory efficient and convinient.<br>
+* How NumPy is faster?<br>
+* How NumPy is memory efficient and convinient?<br>
